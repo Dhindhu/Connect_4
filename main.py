@@ -208,7 +208,7 @@ current_player = True
 no_winner = True
 restart()
 while run:
-    
+
     pygame.time.delay(50)
     if no_winner:
         window.fill((255, 255, 255))
